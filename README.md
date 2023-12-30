@@ -39,7 +39,8 @@ Inside the React folder, establish a Reactjs app, or a Nextjs app (optional), yo
 3. Inside the Body, you need to list at least four options for selection each with different names, and when selected, it will take us to another empty page where the name of that option is displayed on the screen, but in the Header, the current step of the app needs to be updated to 2/2.
 4. We need to establish a back button that will take us from 2/2 step, back into the 1/2 main selection step.
 
-![task](https://github.com/imedonii/dev-tasklist/assets/64871089/659a835d-f715-4728-bcf9-0b2ea3cb0899)
+![task](https://github.com/imedonii/dev-tasklist/assets/64871089/30ef4196-49f3-47fe-862c-017fde783390)
+
 
 
 ##### The TypeScript folder task
