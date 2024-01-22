@@ -22,7 +22,7 @@ Inside the JavaScript folder, it is required of you to have one index.html file,
 
 in the index.html file, you need to setup the following view: 
 
-The view to have four checkbox inputs with values: Internship, Pabau, Employment, Career
+The view to have four checkbox inputs with values: Internship, TenTen, Employment, Career
 
 To have one button "Shuffle Values" - when clicked, it should simply swap the order of the checkbox inputs that appear on the view
 
